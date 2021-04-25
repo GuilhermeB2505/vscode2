@@ -1,0 +1,33 @@
+div.menu > img{
+    align-self: center;
+}
+.menu{
+    background-color: white;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    width: auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.menu > a{          /*pages do menu*/
+    color: white;
+    background: black;
+    font-size: 40px;
+    margin: 0 10px;
+    text-decoration: none;
+    border: solid black;
+}
+
+div.menu img{
+    align-items: left;
+}
+div.menu > img{
+    align-self: center;
+}
