@@ -3,7 +3,6 @@
     margin: 0 auto;
     padding-bottom: 10px;
     padding-top: 10px;
-    text-align: center;
     width: auto;
 }
 
@@ -21,13 +20,11 @@
     text-decoration: none;
     border: solid black;
     font-style: bold;
+    text-align: center;
 }
 
-div.menu img{ /* imgs do menu */
-    align=left
+.menu > img{
     background-color: white;
-    margin-left: 10;
-    margin-right: 9000;
-    text-align: left
-  
+    margin-left: 0px;
+    margin-right: 250px;
 }
