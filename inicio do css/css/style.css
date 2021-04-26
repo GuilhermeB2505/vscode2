@@ -13,14 +13,14 @@
 }
 
 .menu > a{          /*pages do menu*/
-    color: white;
-    background: black;
+    color: black;
+    background-color: white;
     font-size: 40px;
     margin: 0 10px;
     text-decoration: none;
-    border: solid black;
-    font-style: bold;
+    font-style: bold, italic;
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .menu > img{
